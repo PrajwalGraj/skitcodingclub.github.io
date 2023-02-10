@@ -284,7 +284,7 @@ body {
 
 
 .mentor {
-    background-image: url(/image.webp);
+    background-image: url(image.webp);
     /* background-position: 20px; */
     background-size: cover;
     display: flex;
